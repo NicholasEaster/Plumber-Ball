@@ -1,0 +1,9 @@
+Stats thread started at 0.310640
+appError called: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Internationalization\ICUInternationalization.cpp] [Line: 156] 
+ICU data directory was not discovered:
+C:/Users/sandr/Desktop/Unreal_Project/Plumber_Ball/Plumber Ball/Content/Internationalization
+../../../Engine/Content/Internationalization
+
+
+
+Windows GetLastError: The operation completed successfully. (0)
